@@ -24,7 +24,7 @@ const Header = () => {
                 {/* Box is basically a div which you can set some pre-defined properties */}
                 <Box display = "flex">
                     <Typography variant="h6" className={classes.title2}>
-                        Explore New Places
+                        Explore Waterloo
                     </Typography>
 
                     {/*Search Bar */}
