@@ -1,0 +1,61 @@
+route_id,route_short_name,route_long_name,route_type,route_color,route_text_color,route_url
+1,1,Queen-River,3,80298f,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+2,2,Stirling,3,fcb94c,000000,https://www.grt.ca/en/schedules-maps/schedules.aspx
+3,3,Ottawa South,3,f05a71,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+4,4,Glasgow-Margaret,3,806950,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+5,5,Erb,3,008fd4,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+6,6,Bridge-Courtland,3,2e3092,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+7,7,King,3,ed1c24,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+8,8,Weber,3,00a550,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+9,9,Lakeshore,3,f7931d,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+10,10,Pioneer,3,0071bb,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+12,12,Westmount,3,ec008b,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+13,13,Laurelwood,3,ffca04,000000,https://www.grt.ca/en/schedules-maps/schedules.aspx
+14,14,Bathurst,3,496e6d,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+16,16,Strasburg-Belmont,3,86ac51,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+19,19,Hazel,3,00ff00,000000,https://www.grt.ca/en/schedules-maps/schedules.aspx
+20,20,Victoria-Frederick,3,c7a0ca,000000,https://www.grt.ca/en/schedules-maps/schedules.aspx
+21,21,Elmira,3,a6ce38,000000,https://www.grt.ca/en/schedules-maps/schedules.aspx
+22,22,Laurentian West,3,756fb3,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+23,23,Idlewood,3,f6adcd,000000,https://www.grt.ca/en/schedules-maps/schedules.aspx
+26,26,Trillium,3,5a2a00,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+27,27,Morrison,3,f58245,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+28,28,Franklin North,3,ff00ff,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+29,29,Keats-University,3,a54686,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+30,30,Ring Road,3,a54686,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+31,31,Columbia,3,aaa575,000000,https://www.grt.ca/en/schedules-maps/schedules.aspx
+33,33,Huron,3,5a2a00,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+34,34,Bingemans,3,91268f,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+36,36,Thomas Slee,3,1ca2df,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+50,50,Dundas,3,2e3092,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+51,51,Hespeler,3,ff0000,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+53,53,Franklin,3,00ff00,000000,https://www.grt.ca/en/schedules-maps/schedules.aspx
+54,54,Lisbon Pines,3,00ffff,000000,https://www.grt.ca/en/schedules-maps/schedules.aspx
+55,55,Grand Ridge,3,9900cc,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+56,56,Dunbar,3,006633,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+57,57,Blair,3,ff6600,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+58,58,Elmwood,3,663333,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+59,59,Christopher,3,ff00ff,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+60,60,Northview Acres,3,003399,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+61,61,Fountain,3,00aaac,000000,https://www.grt.ca/en/schedules-maps/schedules.aspx
+63,63,Champlain,3,ffb200,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+64,64,Langs,3,cc0000,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+67,67,Eagle-Pinebush,3,6600ff,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+72,72,Boxwood Flex,3,a15641,ffffff,https://www.grt.ca/en/schedules-maps/route-72-flex-boxwood.aspx
+73,73,Northlake,3,00adef,000000,https://www.grt.ca/en/schedules-maps/schedules.aspx
+75,75,Saginaw,3,ff6633,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+76,76,Doon Mills,3,2e3092,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+77,77,Wilmot,3,2e3092,ffffff,https://www.grt.ca/en/schedules-maps/route-77-wilmot.aspx
+79,79,Breslau,3,2e3092,ffffff,https://www.grt.ca/en/schedules-maps/route-79-breslau.aspx
+110,110,College Express,3,,,https://www.grt.ca/en/schedules-maps/schedules.aspx
+201,201,iXpress Fischer-Hallman,3,000000,a6ce38,https://www.grt.ca/en/schedules-maps/schedules.aspx
+202,202,iXpress University,3,000000,a6ce38,https://www.grt.ca/en/schedules-maps/schedules.aspx
+203,203,iXpress Maple Grove,3,000000,a6ce38,https://www.grt.ca/en/schedules-maps/schedules.aspx
+204,204,iXpress Highland-Victoria,3,000000,a6ce38,https://www.grt.ca/en/schedules-maps/schedules.aspx
+205,205,iXpress Ottawa,3,000000,a6ce38,https://www.grt.ca/en/schedules-maps/schedules.aspx
+206,206,iXpress Coronation,3,000000,a6ce38,https://www.grt.ca/en/schedules-maps/schedules.aspx
+301,301,ION,0,006bb7,ffffff,https://www.grt.ca/en/ion-light-rail.aspx
+3011,301R,ION Replacement Shuttle,0,006bb7,ffffff,https://www.grt.ca/en/ion-light-rail.aspx
+302,302,ION Bus,3,006bb7,ffffff,https://www.grt.ca/en/ion-light-rail.aspx
+9801,9801,Special,3,2e3092,ffffff,https://www.grt.ca/en/schedules-maps/school-service.aspx
+9851,9851,GCI Special,3,2e3092,ffffff,https://www.grt.ca/en/schedules-maps/school-service.aspx
