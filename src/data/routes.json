@@ -1,0 +1,542 @@
+[
+    {
+      "route_id": 1,
+      "route_short_name": "1",
+      "route_long_name": "Queen-River",
+      "route_type": 3,
+      "route_color": "80298f",
+      "route_text_color": "ffffff",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 2,
+      "route_short_name": "2",
+      "route_long_name": "Stirling",
+      "route_type": 3,
+      "route_color": "fcb94c",
+      "route_text_color": "000000",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 3,
+      "route_short_name": "3",
+      "route_long_name": "Ottawa South",
+      "route_type": 3,
+      "route_color": "f05a71",
+      "route_text_color": "ffffff",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 4,
+      "route_short_name": "4",
+      "route_long_name": "Glasgow-Margaret",
+      "route_type": 3,
+      "route_color": "806950",
+      "route_text_color": "ffffff",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 5,
+      "route_short_name": "5",
+      "route_long_name": "Erb",
+      "route_type": 3,
+      "route_color": "008fd4",
+      "route_text_color": "ffffff",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 6,
+      "route_short_name": "6",
+      "route_long_name": "Bridge-Courtland",
+      "route_type": 3,
+      "route_color": "2e3092",
+      "route_text_color": "ffffff",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 7,
+      "route_short_name": "7",
+      "route_long_name": "King",
+      "route_type": 3,
+      "route_color": "ed1c24",
+      "route_text_color": "ffffff",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 8,
+      "route_short_name": "8",
+      "route_long_name": "Weber",
+      "route_type": 3,
+      "route_color": "00a550",
+      "route_text_color": "ffffff",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 9,
+      "route_short_name": "9",
+      "route_long_name": "Lakeshore",
+      "route_type": 3,
+      "route_color": "f7931d",
+      "route_text_color": "ffffff",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 10,
+      "route_short_name": "10",
+      "route_long_name": "Pioneer",
+      "route_type": 3,
+      "route_color": "0071bb",
+      "route_text_color": "ffffff",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 12,
+      "route_short_name": "12",
+      "route_long_name": "Westmount",
+      "route_type": 3,
+      "route_color": "ec008b",
+      "route_text_color": "ffffff",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 13,
+      "route_short_name": "13",
+      "route_long_name": "Laurelwood",
+      "route_type": 3,
+      "route_color": "ffca04",
+      "route_text_color": "000000",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 14,
+      "route_short_name": "14",
+      "route_long_name": "Bathurst",
+      "route_type": 3,
+      "route_color": "496e6d",
+      "route_text_color": "ffffff",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 16,
+      "route_short_name": "16",
+      "route_long_name": "Strasburg-Belmont",
+      "route_type": 3,
+      "route_color": "86ac51",
+      "route_text_color": "ffffff",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 19,
+      "route_short_name": "19",
+      "route_long_name": "Hazel",
+      "route_type": 3,
+      "route_color": "00ff00",
+      "route_text_color": "000000",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 20,
+      "route_short_name": "20",
+      "route_long_name": "Victoria-Frederick",
+      "route_type": 3,
+      "route_color": "c7a0ca",
+      "route_text_color": "000000",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 21,
+      "route_short_name": "21",
+      "route_long_name": "Elmira",
+      "route_type": 3,
+      "route_color": "a6ce38",
+      "route_text_color": "000000",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 22,
+      "route_short_name": "22",
+      "route_long_name": "Laurentian West",
+      "route_type": 3,
+      "route_color": "756fb3",
+      "route_text_color": "ffffff",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 23,
+      "route_short_name": "23",
+      "route_long_name": "Idlewood",
+      "route_type": 3,
+      "route_color": "f6adcd",
+      "route_text_color": "000000",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 26,
+      "route_short_name": "26",
+      "route_long_name": "Trillium",
+      "route_type": 3,
+      "route_color": "5a2a00",
+      "route_text_color": "ffffff",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 27,
+      "route_short_name": "27",
+      "route_long_name": "Morrison",
+      "route_type": 3,
+      "route_color": "f58245",
+      "route_text_color": "ffffff",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 28,
+      "route_short_name": "28",
+      "route_long_name": "Franklin North",
+      "route_type": 3,
+      "route_color": "ff00ff",
+      "route_text_color": "ffffff",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 29,
+      "route_short_name": "29",
+      "route_long_name": "Keats-University",
+      "route_type": 3,
+      "route_color": "a54686",
+      "route_text_color": "ffffff",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 30,
+      "route_short_name": "30",
+      "route_long_name": "Ring Road",
+      "route_type": 3,
+      "route_color": "a54686",
+      "route_text_color": "ffffff",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 31,
+      "route_short_name": "31",
+      "route_long_name": "Columbia",
+      "route_type": 3,
+      "route_color": "aaa575",
+      "route_text_color": "000000",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 33,
+      "route_short_name": "33",
+      "route_long_name": "Huron",
+      "route_type": 3,
+      "route_color": "5a2a00",
+      "route_text_color": "ffffff",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 34,
+      "route_short_name": "34",
+      "route_long_name": "Bingemans",
+      "route_type": 3,
+      "route_color": "91268f",
+      "route_text_color": "ffffff",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 36,
+      "route_short_name": "36",
+      "route_long_name": "Thomas Slee",
+      "route_type": 3,
+      "route_color": "1ca2df",
+      "route_text_color": "ffffff",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 50,
+      "route_short_name": "50",
+      "route_long_name": "Dundas",
+      "route_type": 3,
+      "route_color": "2e3092",
+      "route_text_color": "ffffff",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 51,
+      "route_short_name": "51",
+      "route_long_name": "Hespeler",
+      "route_type": 3,
+      "route_color": "ff0000",
+      "route_text_color": "ffffff",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 53,
+      "route_short_name": "53",
+      "route_long_name": "Franklin",
+      "route_type": 3,
+      "route_color": "00ff00",
+      "route_text_color": "000000",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 54,
+      "route_short_name": "54",
+      "route_long_name": "Lisbon Pines",
+      "route_type": 3,
+      "route_color": "00ffff",
+      "route_text_color": "000000",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 55,
+      "route_short_name": "55",
+      "route_long_name": "Grand Ridge",
+      "route_type": 3,
+      "route_color": "9900cc",
+      "route_text_color": "ffffff",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 56,
+      "route_short_name": "56",
+      "route_long_name": "Dunbar",
+      "route_type": 3,
+      "route_color": "006633",
+      "route_text_color": "ffffff",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 57,
+      "route_short_name": "57",
+      "route_long_name": "Blair",
+      "route_type": 3,
+      "route_color": "ff6600",
+      "route_text_color": "ffffff",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 58,
+      "route_short_name": "58",
+      "route_long_name": "Elmwood",
+      "route_type": 3,
+      "route_color": "663333",
+      "route_text_color": "ffffff",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 59,
+      "route_short_name": "59",
+      "route_long_name": "Christopher",
+      "route_type": 3,
+      "route_color": "ff00ff",
+      "route_text_color": "ffffff",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 60,
+      "route_short_name": "60",
+      "route_long_name": "Northview Acres",
+      "route_type": 3,
+      "route_color": "003399",
+      "route_text_color": "ffffff",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 61,
+      "route_short_name": "61",
+      "route_long_name": "Fountain",
+      "route_type": 3,
+      "route_color": "00aaac",
+      "route_text_color": "000000",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 63,
+      "route_short_name": "63",
+      "route_long_name": "Champlain",
+      "route_type": 3,
+      "route_color": "ffb200",
+      "route_text_color": "ffffff",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 64,
+      "route_short_name": "64",
+      "route_long_name": "Langs",
+      "route_type": 3,
+      "route_color": "cc0000",
+      "route_text_color": "ffffff",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 67,
+      "route_short_name": "67",
+      "route_long_name": "Eagle-Pinebush",
+      "route_type": 3,
+      "route_color": "6600ff",
+      "route_text_color": "ffffff",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 72,
+      "route_short_name": "72",
+      "route_long_name": "Boxwood Flex",
+      "route_type": 3,
+      "route_color": "a15641",
+      "route_text_color": "ffffff",
+      "route_url": "https://www.grt.ca/en/schedules-maps/route-72-flex-boxwood.aspx"
+    },
+    {
+      "route_id": 73,
+      "route_short_name": "73",
+      "route_long_name": "Northlake",
+      "route_type": 3,
+      "route_color": "00adef",
+      "route_text_color": "000000",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 75,
+      "route_short_name": "75",
+      "route_long_name": "Saginaw",
+      "route_type": 3,
+      "route_color": "ff6633",
+      "route_text_color": "ffffff",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 76,
+      "route_short_name": "76",
+      "route_long_name": "Doon Mills",
+      "route_type": 3,
+      "route_color": "2e3092",
+      "route_text_color": "ffffff",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 77,
+      "route_short_name": "77",
+      "route_long_name": "Wilmot",
+      "route_type": 3,
+      "route_color": "2e3092",
+      "route_text_color": "ffffff",
+      "route_url": "https://www.grt.ca/en/schedules-maps/route-77-wilmot.aspx"
+    },
+    {
+      "route_id": 79,
+      "route_short_name": "79",
+      "route_long_name": "Breslau",
+      "route_type": 3,
+      "route_color": "2e3092",
+      "route_text_color": "ffffff",
+      "route_url": "https://www.grt.ca/en/schedules-maps/route-79-breslau.aspx"
+    },
+    {
+      "route_id": 110,
+      "route_short_name": "110",
+      "route_long_name": "College Express",
+      "route_type": 3,
+      "route_color": "",
+      "route_text_color": "",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 201,
+      "route_short_name": "201",
+      "route_long_name": "iXpress Fischer-Hallman",
+      "route_type": 3,
+      "route_color": "000000",
+      "route_text_color": "a6ce38",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 202,
+      "route_short_name": "202",
+      "route_long_name": "iXpress University",
+      "route_type": 3,
+      "route_color": "000000",
+      "route_text_color": "a6ce38",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 203,
+      "route_short_name": "203",
+      "route_long_name": "iXpress Maple Grove",
+      "route_type": 3,
+      "route_color": "000000",
+      "route_text_color": "a6ce38",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 204,
+      "route_short_name": "204",
+      "route_long_name": "iXpress Highland-Victoria",
+      "route_type": 3,
+      "route_color": "000000",
+      "route_text_color": "a6ce38",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 205,
+      "route_short_name": "205",
+      "route_long_name": "iXpress Ottawa",
+      "route_type": 3,
+      "route_color": "000000",
+      "route_text_color": "a6ce38",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 206,
+      "route_short_name": "206",
+      "route_long_name": "iXpress Coronation",
+      "route_type": 3,
+      "route_color": "000000",
+      "route_text_color": "a6ce38",
+      "route_url": "https://www.grt.ca/en/schedules-maps/schedules.aspx"
+    },
+    {
+      "route_id": 301,
+      "route_short_name": "301",
+      "route_long_name": "ION",
+      "route_type": 0,
+      "route_color": "006bb7",
+      "route_text_color": "ffffff",
+      "route_url": "https://www.grt.ca/en/ion-light-rail.aspx"
+    },
+    {
+      "route_id": 3011,
+      "route_short_name": "301R",
+      "route_long_name": "ION Replacement Shuttle",
+      "route_type": 0,
+      "route_color": "006bb7",
+      "route_text_color": "ffffff",
+      "route_url": "https://www.grt.ca/en/ion-light-rail.aspx"
+    },
+    {
+      "route_id": 302,
+      "route_short_name": "302",
+      "route_long_name": "ION Bus",
+      "route_type": 3,
+      "route_color": "006bb7",
+      "route_text_color": "ffffff",
+      "route_url": "https://www.grt.ca/en/ion-light-rail.aspx"
+    },
+    {
+      "route_id": 9801,
+      "route_short_name": "9801",
+      "route_long_name": "Special",
+      "route_type": 3,
+      "route_color": "2e3092",
+      "route_text_color": "ffffff",
+      "route_url": "https://www.grt.ca/en/schedules-maps/school-service.aspx"
+    },
+    {
+      "route_id": 9851,
+      "route_short_name": "9851",
+      "route_long_name": "GCI Special",
+      "route_type": 3,
+      "route_color": "2e3092",
+      "route_text_color": "ffffff",
+      "route_url": "https://www.grt.ca/en/schedules-maps/school-service.aspx"
+    }
+   ]
