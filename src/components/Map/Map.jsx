@@ -6,12 +6,14 @@ import Rating from '@material-ui/lab';
 
 import useStyles from './styles.js';
 
+import StopCord from '../../data/stops.json';
+
 const {REACT_APP_GOOGLE_API} = process.env;
 
 const Map = () => {
     //hook
     const classes = useStyles();
-    const isMobile = useMediaQuery('(min-width:600px)');
+    const isDesktop = useMediaQuery('(min-width:600px)');
 
     const coordinates = { lat:43.4715, lng:-80.5420};
 
@@ -27,7 +29,17 @@ const Map = () => {
                 onChange={''} //when map changes
                 onChildClick={''} //when something is clicked
             >
+                {StopCord?.map((theStop, index)=>(
+                    <div className={classes.markerContainer}
+                        lat={Number(theStop.stop_lat)}
+                        lng={Number(theStop.stop_lon)}
+                        key={index}
+                    >
+                        <LocationOnOutlinedIcon color="black" fontSize="large"/>
+                    </div>
+                ))}
             </GoogleMapReact>
+            
         </div>
     );
 }

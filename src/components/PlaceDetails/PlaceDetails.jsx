@@ -19,7 +19,18 @@ const PlaceDetails = ({place}) => {
                 title={place.stop_name}
             />
             <CardContent>
-                <Typography gutterBottom variant="h7">{place.stop_name}</Typography>
+                <Box sx={{fontWeight: 'bold'}}>
+                    <Typography gutterBottom variant="h7">{place.stop_name}</Typography>
+                </Box>
+                <Box display="flex" justifyContent="center" marginTop="10px">
+                    <Button variant="outlined">Go to Stop</Button>
+                    <Box sx={{fontStyle: 'italic'}} marginLeft="10px" marginTop="10px" justifyContent="center">
+                        {place.wheelchair_boarding === 1 ? 
+                            <Typography gutterBottom variant="h9">Wheelchair Accessible</Typography> : 
+                            <Typography gutterBottom variant="h9">Wheelchair Non-accessible</Typography>
+                        }
+                    </Box>
+                </Box>
             </CardContent>
         </Card>
     );

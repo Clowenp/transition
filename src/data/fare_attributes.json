@@ -1,0 +1,10 @@
+[
+    {
+      "fare_id": 1,
+      "price": 3.5,
+      "currency_type": "CAD",
+      "payment_method": 0,
+      "transfers": "",
+      "transfer_duration": 5400
+    }
+]
