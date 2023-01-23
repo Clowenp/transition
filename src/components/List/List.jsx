@@ -5,15 +5,11 @@ import useStyles from './styles.js';
 import PlaceDetails from '../PlaceDetails/PlaceDetails.jsx';
 
 import { places } from './ListInfo.js';
-import { routes } from './RouteInfo.js';
 
 function fetchPlaces(){
     return places;
 }
 
-function fetchRoutes(){
-    return routes;
-}
 
 const List = () => {
 
@@ -23,7 +19,6 @@ const List = () => {
     const [rating, setRating] = useState('');
 
     const places = fetchPlaces();
-    const routes = fetchRoutes();
 
     return(
         <div className = {classes.container}>

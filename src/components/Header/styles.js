@@ -1,5 +1,4 @@
 import { alpha, makeStyles } from '@material-ui/core/styles';
-import { BlockRounded } from '@material-ui/icons';
 
 export default makeStyles((theme) => ({
   title: {
