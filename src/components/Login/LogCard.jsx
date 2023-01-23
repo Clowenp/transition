@@ -92,7 +92,9 @@ function LogCard({login}) {
                               backgroundColor: "#000000",
                               padding: "18px 36px",
                               fontSize: "18px"
-                              }}>{login}
+                              }}
+                              component={Link} to="/home"
+                              >{login}
                         </Button>
                         <br/>
                         <br/>
